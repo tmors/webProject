@@ -1,7 +1,8 @@
 <!doctype html>
+<%@ page contentType="text/html; charset=UTF-8"%>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="FlatBest - Responsive One Page Fast Loading">
     <meta name="keywords"
           content="One Page, Bootstrap, Website, Business, Resume, Portfolio, Template, Unlimited Colors">
